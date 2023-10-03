@@ -1,1 +1,2 @@
 This is my first GitHub Repositiry Text File.
+(Added new items)be careful
